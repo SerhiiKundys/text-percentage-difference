@@ -4,6 +4,7 @@
 Returns percentage difference between two strings
 ## Installation
 `npm install text-percentage-difference`
+## License
+MIT License
 ]]></content>
-  <tabTrigger>readme</tabTrigger>
 </snippet>
