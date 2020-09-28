@@ -1,0 +1,20 @@
+{
+  "name": "text-percentage-difference",
+  "version": "1.0.0",
+  "description": "Returns percentage difference between two strings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SerhiiKundys/text-percentage-difference.git"
+  },
+  "keywords": [
+    "text",
+    "percentage",
+    "difference"
+  ],
+  "author": "Serhii Kundys <sergiykundys@gmail.com>",
+  "license": "MIT"
+}
