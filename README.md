@@ -12,7 +12,7 @@
 
 ## Usage
 ```js
-import getPercentageDifference from "text-percentage-difference";
+const getPercentageDifference = require("text-percentage-difference");
 
 let str1 = "Hi, my name is John";
 let str2 = "Hi, my name is Steve";
