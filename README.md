@@ -13,10 +13,10 @@
 ## Usage
 ```js
 import getPercentageDifference from "text-percentage-difference";
-let str1 =
-  "Hi, my name is John";
-let str2 =
-  "Hi, my name is Steve";
+
+let str1 = "Hi, my name is John";
+let str2 = "Hi, my name is Steve";
+
 console.log(
   `The percentage difference: ${getPercentageDifference(str1, str2)}`
 );
@@ -26,4 +26,4 @@ console.log(
 Distributed under the MIT License. See LICENSE for more information.
 
 ## Contact
-Created by sergiykundys@gmail.com - feel free to contact me!
+Created by [sergiykundys@gmail.com](https://mail.google.com/mail/u/0/#inbox)  - feel free to contact me!
