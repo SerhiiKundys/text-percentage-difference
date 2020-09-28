@@ -1,23 +1,29 @@
-<snippet>
-  <content><![CDATA[
-# ${1:text-percentage-difference}
-TODO: Returns percentage difference between two strings
+# text-percentage-difference
+> Returns percentage difference between two strings
+
+## Table of contents
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contact](#contact)
+
 ## Installation
-TODO: `npm install text-percentage-difference`
+`npm install text-percentage-difference`
+
 ## Usage
-TODO: Write usage instructions
-## Contributing
-1. Fork it!
-2. Create your feature branch: `git checkout -b my-new-feature`
-3. Commit your changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a pull request :D
-## History
-TODO: Write history
-## Credits
-TODO: Write credits
+```js
+import getPercentageDifference from "text-percentage-difference";
+let str1 =
+  "Hi, my name is John";
+let str2 =
+  "Hi, my name is Steve";
+console.log(
+  `The percentage difference: ${getPercentageDifference(str1, str2)}`
+);
+```
+
 ## License
-TODO: MIT License
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
+Distributed under the MIT License. See LICENSE for more information.
+
+## Contact
+Created by sergiykundys@gmail.com - feel free to contact me!
